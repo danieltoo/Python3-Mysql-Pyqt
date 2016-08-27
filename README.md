@@ -1,1 +1,1 @@
-#Python3Mysql-Pyqt
+#Python3-Mysql-Pyqt
